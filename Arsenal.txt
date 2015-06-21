@@ -10,4 +10,7 @@
 =======
 one one one one one one one one one
 two teo 22222222222222222222222222
+<<<<<<< HEAD
+>>>>>>> 6e7eb4b... added 2
+=======
 >>>>>>> 6e7eb4b... added 2
