@@ -2,4 +2,9 @@ STRANGE*******checkouffffchecj chdtgtddbddfgsfn*this is a github test....continu
 :CHECKING STUFF OUT IN GITHUB  GOODNESS
 checking cherry picking process
 *******************cherry pick final process************************
+<<<<<<< HEAD
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+=======
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+ccccccccccccccccccccccccccccccccccccccccccccccc
+>>>>>>> 7a3e4cd... ccc
